@@ -118,3 +118,4 @@ _comments:
 # Build settings
 #markdown: kramdown
 markdown: redcarpet
+highlighter: rouge
