@@ -20,7 +20,7 @@ While there is no practical limit on what types of people can form a friendship,
 
 ![Raspberries](https://source.unsplash.com/random/1500x1001)
 
-```swift
+```Swift
 //
 //  AirbnbPageTabNavigationView.swift
 //  airbnb-main
@@ -111,7 +111,7 @@ class AirbnbPageTabNavigationView: UIScrollView {
         selectedLineView.heightAnchor.constraint(equalToConstant: 2).isActive = true
         // TODO: figure out why using bottomAnchor does not work
         selectedLineView.topAnchor.constraint(equalTo: topAnchor, constant: 50 - 2).isActive = true
-        selectedLineCenterXAnchor = selectedLineView.centerXAnchor.constraint(equalTo: centerXAnchor)
+        selectedLineCenterXAnchor = sselectedLineView.centerXAnchor.constraint(equalTo: centerXAnchor)
         selectedLineCenterXAnchor?.isActive = true
         selectedLineWidthAnchor = selectedLineView.widthAnchor.constraint(equalTo: widthAnchor)
         selectedLineWidthAnchor?.isActive = true
