@@ -118,5 +118,5 @@ _comments:
 markdown: kramdown
 
 kramdown:
-input: GFM
-syntax_hightlighter: rouge
+  input: GFM
+  syntax_hightlighter: rouge
