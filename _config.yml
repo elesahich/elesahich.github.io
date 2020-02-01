@@ -116,7 +116,4 @@ _comments:
   blurb: Short bio or description of this person
 
 markdown: kramdown
-
-kramdown:
-input: GFM
-syntax_hightlighter: rouge
+highlighter: rouge
