@@ -118,14 +118,6 @@ _comments:
 # Build settings
 #markdown: kramdown
 
-markdown: redcarpet
-
-redcarpet:
-  extensions:
-    - no_intra_emphasis
-    - fenced_code_blocks
-    - tables
-    - strikethrough
-    - superscript
-    - autolink
-    - hard_wrap
+kramdown:
+  input: GFM
+  hard_wrap: false
