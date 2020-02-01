@@ -116,4 +116,11 @@ _comments:
   blurb: Short bio or description of this person
 
 markdown: kramdown
+<<<<<<< HEAD
 highlighter: rouge
+=======
+
+kramdown:
+  input: GFM
+  syntax_hightlighter: rouge
+>>>>>>> d1867ada8b8beb80efa191a447ed64392bc17373
