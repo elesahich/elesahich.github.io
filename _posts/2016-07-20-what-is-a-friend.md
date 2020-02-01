@@ -20,6 +20,8 @@ While there is no practical limit on what types of people can form a friendship,
 
 ![Raspberries](https://source.unsplash.com/random/1500x1001)
 
+do confirm
+
 ```Swift
 //
 //  AirbnbPageTabNavigationView.swift
