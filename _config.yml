@@ -116,7 +116,7 @@ _comments:
   blurb: Short bio or description of this person
 
 # Build settings
-#markdown: kramdown
+markdown: kramdown
 
 kramdown:
   input: GFM
