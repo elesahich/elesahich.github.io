@@ -114,13 +114,3 @@ social_icons:
 _comments:
   description: Text shown when sharing on social media
   blurb: Short bio or description of this person
-
-markdown: kramdown
-<<<<<<< HEAD
-highlighter: rouge
-=======
-
-kramdown:
-  input: GFM
-  syntax_hightlighter: rouge
->>>>>>> d1867ada8b8beb80efa191a447ed64392bc17373
