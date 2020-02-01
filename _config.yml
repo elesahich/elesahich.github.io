@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Frisco Template
-url: "https://brave-submarine.cloudvent.net"
+title: elesahich's blog
+url: "http://elesahich.github.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -12,8 +12,8 @@ disqus_shortname:
 logo: /siteicon.png
 description: App marketing template for Jekyll.
 author:
-  name:
-  email:
+  name: elesahich
+  email: elesahich@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Frisco Template
